@@ -23,3 +23,8 @@ vimrc configuration for c and c++
 [gitgutter]: https://github.com/airblade/vim-gitgutter.git
 [ctrlp]: https://github.com/kien/ctrlp.vim.git
 [orgmode]: https://github.com/jceb/vim-orgmode
+
+## Youcompleteme could give you the error 
+   try to go into the foder Youcompleteme and try to run install.py 
+   ## note : 
+    you need to installed cmake c++ compiler and of course python to be able to run install.py script.
