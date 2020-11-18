@@ -25,6 +25,6 @@ vimrc configuration for c and c++
 [orgmode]: https://github.com/jceb/vim-orgmode
 
 ## Youcompleteme could give you the error 
-   try to go into the foder Youcompleteme and try to run install.py 
-   ## note : 
-    you need to installed cmake c++ compiler and of course python to be able to run install.py script.
+    try to go into the foder Youcompleteme and try to run install.py 
+   # note 
+        you need to installed cmake c++ compiler and of course python to be able to run install.py script.
