@@ -7,7 +7,7 @@ vimrc configuration for c and c++
 
 1. Preparing system:
 
-    Install [Git] in your system just in case ;). First you need to download [Vundle] 
+    Install [Git] in your system just in case ;). Find the clone.sh in the same directory and run it with the shell will do the magic.
     
 
 [Vundle]: https://github.com/VundleVim/Vundle.vim

@@ -20,7 +20,7 @@ vim_install_check= sh -c "command vim --version"
     else
         echo "Downloading Plugins"
     fi 
-plugins=("VundleVim/Vundle.vim" "flazz/vim-colorschemes" "ycm-core/YouCompleteMe" "easymotion/vim-easymotion" "michaeljsmith/vim-indent-object" "maralla/validator.vim" "vim-scripts/c.vim" "vim-airline/vim-airline" "vim-airline/vim-airline-themes" "airblade/vim-gitgutter" "kien/ctrlp.vim" "jceb/vim-orgmode") 
+plugins=("VundleVim/Vundle.vim" "flazz/vim-colorschemes" "easymotion/vim-easymotion" "michaeljsmith/vim-indent-object" "maralla/validator.vim" "vim-scripts/c.vim" "vim-airline/vim-airline" "vim-airline/vim-airline-themes" "airblade/vim-gitgutter" "kien/ctrlp.vim" "jceb/vim-orgmode") 
 TOT=${#plugins[@]}
 for(( i=0 ; i<$TOT; i ++)); 
 do  
